@@ -34,7 +34,7 @@ const index = () => {
                   color="secondary"
                   className="circular-btn"
                   fullWidth
-                  href="/"
+                  // href="/"
                 >
                   Pagar
                 </Button>
